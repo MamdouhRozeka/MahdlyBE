@@ -1,0 +1,16 @@
+/Users/mamdouhrozeka/mahdly/mahdly/src/main/java/com/mahdlyBE/mahdly/data/model/Image.java
+/Users/mamdouhrozeka/mahdly/mahdly/src/main/java/com/mahdlyBE/mahdly/service/UniversityService.java
+/Users/mamdouhrozeka/mahdly/mahdly/src/main/java/com/mahdlyBE/mahdly/data/model/Subject.java
+/Users/mamdouhrozeka/mahdly/mahdly/src/main/java/com/mahdlyBE/mahdly/repository/UniversityRepository.java
+/Users/mamdouhrozeka/mahdly/mahdly/src/main/java/com/mahdlyBE/mahdly/data/model/Major.java
+/Users/mamdouhrozeka/mahdly/mahdly/src/main/java/com/mahdlyBE/mahdly/controller/UniversityController.java
+/Users/mamdouhrozeka/mahdly/mahdly/src/main/java/com/mahdlyBE/mahdly/repository/MajorRepository.java
+/Users/mamdouhrozeka/mahdly/mahdly/src/main/java/com/mahdlyBE/mahdly/data/model/BaseEntity.java
+/Users/mamdouhrozeka/mahdly/mahdly/src/main/java/com/mahdlyBE/mahdly/MahdlyApplication.java
+/Users/mamdouhrozeka/mahdly/mahdly/src/main/java/com/mahdlyBE/mahdly/data/enums/Area.java
+/Users/mamdouhrozeka/mahdly/mahdly/src/main/java/com/mahdlyBE/mahdly/service/MajorService.java
+/Users/mamdouhrozeka/mahdly/mahdly/src/main/java/com/mahdlyBE/mahdly/service/StorageService.java
+/Users/mamdouhrozeka/mahdly/mahdly/src/main/java/com/mahdlyBE/mahdly/data/model/University.java
+/Users/mamdouhrozeka/mahdly/mahdly/src/main/java/com/mahdlyBE/mahdly/config/StorageConfig.java
+/Users/mamdouhrozeka/mahdly/mahdly/src/main/java/com/mahdlyBE/mahdly/controller/StorageController.java
+/Users/mamdouhrozeka/mahdly/mahdly/src/main/java/com/mahdlyBE/mahdly/controller/MajorController.java

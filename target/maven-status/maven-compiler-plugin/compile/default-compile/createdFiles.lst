@@ -1,0 +1,16 @@
+com/mahdlyBE/mahdly/data/model/University.class
+com/mahdlyBE/mahdly/data/enums/Area.class
+com/mahdlyBE/mahdly/repository/UniversityRepository.class
+com/mahdlyBE/mahdly/data/model/Image.class
+com/mahdlyBE/mahdly/data/model/Subject.class
+com/mahdlyBE/mahdly/controller/StorageController.class
+com/mahdlyBE/mahdly/MahdlyApplication.class
+com/mahdlyBE/mahdly/data/model/BaseEntity.class
+com/mahdlyBE/mahdly/service/UniversityService.class
+com/mahdlyBE/mahdly/service/StorageService.class
+com/mahdlyBE/mahdly/config/StorageConfig.class
+com/mahdlyBE/mahdly/service/MajorService.class
+com/mahdlyBE/mahdly/repository/MajorRepository.class
+com/mahdlyBE/mahdly/data/model/Major.class
+com/mahdlyBE/mahdly/controller/UniversityController.class
+com/mahdlyBE/mahdly/controller/MajorController.class
