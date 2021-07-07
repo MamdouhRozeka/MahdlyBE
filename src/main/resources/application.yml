@@ -22,7 +22,7 @@ spring:
       max-request-size: 10MB
 
 server:
-  port: 9090
+  port: 8080
 
 logging:
   level:

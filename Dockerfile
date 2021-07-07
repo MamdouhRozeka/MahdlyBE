@@ -1,5 +1,6 @@
 FROM openjdk:8-jdk-alpine
-ARG JAR_FILE=target/*.jar
-EXPOSE 443
-COPY ${JAR_FILE} app.jar
-ENTRYPOINT ["java","-jar","/app.jar"]
+LABEL maintainer="m.abuelatta1995@gmail.com"
+VOLUME /main-app
+ADD build/libs/mahdly-0.0.1-SNAPSHOT.jar app.jar
+EXPOSE 8080
+ENTRYPOINT ["java", "-jar","/app.jar"]
