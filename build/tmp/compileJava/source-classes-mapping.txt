@@ -1,0 +1,32 @@
+com/mahdlyBE/mahdly/MahdlyApplication.java
+ com.mahdlyBE.mahdly.MahdlyApplication
+com/mahdlyBE/mahdly/controller/UniversityController.java
+ com.mahdlyBE.mahdly.controller.UniversityController
+com/mahdlyBE/mahdly/repository/UniversityRepository.java
+ com.mahdlyBE.mahdly.repository.UniversityRepository
+com/mahdlyBE/mahdly/controller/MajorController.java
+ com.mahdlyBE.mahdly.controller.MajorController
+com/mahdlyBE/mahdly/data/model/Image.java
+ com.mahdlyBE.mahdly.data.model.Image
+com/mahdlyBE/mahdly/service/StorageService.java
+ com.mahdlyBE.mahdly.service.StorageService
+com/mahdlyBE/mahdly/data/model/Subject.java
+ com.mahdlyBE.mahdly.data.model.Subject
+com/mahdlyBE/mahdly/data/model/University.java
+ com.mahdlyBE.mahdly.data.model.University
+com/mahdlyBE/mahdly/repository/MajorRepository.java
+ com.mahdlyBE.mahdly.repository.MajorRepository
+com/mahdlyBE/mahdly/controller/StorageController.java
+ com.mahdlyBE.mahdly.controller.StorageController
+com/mahdlyBE/mahdly/data/model/BaseEntity.java
+ com.mahdlyBE.mahdly.data.model.BaseEntity
+com/mahdlyBE/mahdly/data/model/Major.java
+ com.mahdlyBE.mahdly.data.model.Major
+com/mahdlyBE/mahdly/service/MajorService.java
+ com.mahdlyBE.mahdly.service.MajorService
+com/mahdlyBE/mahdly/data/enums/Area.java
+ com.mahdlyBE.mahdly.data.enums.Area
+com/mahdlyBE/mahdly/config/StorageConfig.java
+ com.mahdlyBE.mahdly.config.StorageConfig
+com/mahdlyBE/mahdly/service/UniversityService.java
+ com.mahdlyBE.mahdly.service.UniversityService

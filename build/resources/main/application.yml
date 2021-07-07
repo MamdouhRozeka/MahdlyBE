@@ -1,0 +1,32 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIAYOXFXCYZOEVXOW6G
+      secret-key: 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
+    region:
+      static: us-east-1
+    stack:
+      auto: false
+
+application:
+  bucket:
+    name: mahdly-bucket
+
+
+spring:
+  servlet:
+    multipart:
+      enabled: true
+      file-size-threshold: 10MB
+      max-file-size: 10MB
+      max-request-size: 10MB
+
+server:
+  port: 8080
+
+logging:
+  level:
+    com:
+      amazonaws:
+        util:
+          EC2MetadataUtils: error

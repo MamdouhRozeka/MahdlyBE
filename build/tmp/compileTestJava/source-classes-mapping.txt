@@ -1,0 +1,2 @@
+com/mahdlyBE/mahdly/MahdlyApplicationTests.java
+ com.mahdlyBE.mahdly.MahdlyApplicationTests
