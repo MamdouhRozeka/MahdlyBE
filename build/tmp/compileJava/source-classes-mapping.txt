@@ -10,6 +10,8 @@ com/mahdlyBE/mahdly/data/model/Image.java
  com.mahdlyBE.mahdly.data.model.Image
 com/mahdlyBE/mahdly/service/StorageService.java
  com.mahdlyBE.mahdly.service.StorageService
+com/mahdlyBE/mahdly/repository/PostRepository.java
+ com.mahdlyBE.mahdly.repository.PostRepository
 com/mahdlyBE/mahdly/data/model/Subject.java
  com.mahdlyBE.mahdly.data.model.Subject
 com/mahdlyBE/mahdly/data/model/University.java
@@ -24,9 +26,15 @@ com/mahdlyBE/mahdly/data/model/Major.java
  com.mahdlyBE.mahdly.data.model.Major
 com/mahdlyBE/mahdly/service/MajorService.java
  com.mahdlyBE.mahdly.service.MajorService
+com/mahdlyBE/mahdly/service/PostService.java
+ com.mahdlyBE.mahdly.service.PostService
+com/mahdlyBE/mahdly/service/UniversityService.java
+ com.mahdlyBE.mahdly.service.UniversityService
 com/mahdlyBE/mahdly/data/enums/Area.java
  com.mahdlyBE.mahdly.data.enums.Area
 com/mahdlyBE/mahdly/config/StorageConfig.java
  com.mahdlyBE.mahdly.config.StorageConfig
-com/mahdlyBE/mahdly/service/UniversityService.java
- com.mahdlyBE.mahdly.service.UniversityService
+com/mahdlyBE/mahdly/data/model/Post.java
+ com.mahdlyBE.mahdly.data.model.Post
+com/mahdlyBE/mahdly/controller/PostController.java
+ com.mahdlyBE.mahdly.controller.PostController
